@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
 <h3 align="center">Full Stack Developer (React js/ node js)</h3>
 <img  width="400" alt="coding" src="https://i.giphy.com/ko7twHhomhk8E.webp"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhoss22&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhoss22" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmedhoss22&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhoss22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhoss22" alt="ahmedhoss22" /></a> </p>
 
