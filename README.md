@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
 <h3 align="center">Full Stack Developer (React js/ node js)</h3>
-<img  width="400" alt="coding" src="https://i.giphy.com/ko7twHhomhk8E.webp"/>
+<img align="right"  width="400" alt="coding" src="https://i.giphy.com/ko7twHhomhk8E.webp"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhoss22" alt="ahmedhoss22" /></a> </p>
 
